@@ -4,12 +4,15 @@
   "type": "module",
   "description": "[![Actions Status](https://github.com/Dmitry1399/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Dmitry1399/frontend-project-44/actions)",
   "bin": {
-  "brain-games": "bin/brain-games.js"
-}, 
- "main": "index.js",
+    "brain-games": "bin/brain-games.js"
+  },
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Dmitry Pichenikin",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
