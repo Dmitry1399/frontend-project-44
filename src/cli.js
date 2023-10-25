@@ -13,6 +13,7 @@ export const getQuestion = (question) => console.log(`Question: ${question}`);
 
 export const evenRules = () => console.log('Answer "yes" if the number is even, otherwise answer "no".');
 export const calcRules = () => console.log('What is the result of the expression?');
+export const gcdRules = () => console.log('Find the greatest common divisor of given numbers.');
 
 export const getResultEvalution = {
   wrong: (name, answer, correctAnswer) => {
