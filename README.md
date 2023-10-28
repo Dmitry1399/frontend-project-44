@@ -7,3 +7,5 @@ Asciinema for running brain-even game:https://asciinema.org/a/8MCCx8HSR3gYvnDjzd
 Asciinema for running brain-calc game:https://asciinema.org/a/uR3FRgVTbWCVakcYp6Nhwfj1e
 
 Asciinema for running brain-gcd game:https://asciinema.org/a/4y2B3kRpg5lOmCGWlaXWWR2BQ
+
+Asciinema for running brain-gcd game:https://asciinema.org/a/tPerElIbSgc7IHrqwdVLh8yRZ
