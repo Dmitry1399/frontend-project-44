@@ -8,4 +8,6 @@ Asciinema for running brain-calc game:https://asciinema.org/a/uR3FRgVTbWCVakcYp6
 
 Asciinema for running brain-gcd game:https://asciinema.org/a/4y2B3kRpg5lOmCGWlaXWWR2BQ
 
-Asciinema for running brain-gcd game:https://asciinema.org/a/tPerElIbSgc7IHrqwdVLh8yRZ
+Asciinema for running brain-progression game:https://asciinema.org/a/tPerElIbSgc7IHrqwdVLh8yRZ
+
+Asciinema for running brain-prime game:https://asciinema.org/a/z8dew0u0kvPOFWYanaETDfaIp
