@@ -3,14 +3,16 @@ import { gcdRules } from '../cli.js';
 import startGame from '../index.js';
 
 const getGcd = (a, b) => {
-  while (a !== b) {
-    if (a > b) {
-      a -= b;
+  let x = a;
+  let y = b;
+  while (x !== y) {
+    if (x > y) {
+      x -= y;
     } else {
-      b -= a;
+      y -= x;
     }
   }
-  return a;
+  return x;
 };
 const getCorrectAnswerAndQuestion = () => {
   const firstrandomInt = _.random(20);
