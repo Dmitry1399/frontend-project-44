@@ -15,8 +15,8 @@ const getGcd = (a, b) => {
   return x;
 };
 const getCorrectAnswerAndQuestion = () => {
-  const firstrandomInt = _.random(20);
-  const secondrandomInt = _.random(20);
+  const firstrandomInt = _.random(1, 20);
+  const secondrandomInt = _.random(1, 20);
   const question = `${firstrandomInt} ${secondrandomInt}`;
   const correctAnswer = getGcd(firstrandomInt, secondrandomInt).toString();
   return {
