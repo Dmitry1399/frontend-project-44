@@ -2,8 +2,7 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "type": "module",
-  "description": "[![Actions Status](https://github.com/Dmitry1399/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Dmitry1399/frontend-project-44/actions)",
-  "main": "index.js",
+  "description": "Brain Games is a set of five console games",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,7 +17,6 @@
     "brain-prime": "bin/brain-prime.js"
   },
   "dependencies": {
-    "lodash": "^4.17.21",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {

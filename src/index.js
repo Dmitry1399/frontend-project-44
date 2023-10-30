@@ -1,23 +1,22 @@
-import {
-  getUserName, getAnswer, getQuestion, getResultEvalution,
-} from './cli.js';
+import readlineSync from 'readline-sync';
 
-const startGame = (showRules, getCorrectAnswerAndQuestion) => {
-  const userName = getUserName();
-  showRules();
+const startGame = (rules, generateRound) => {
+  console.log('Welcome to the Brain Games!');
+  const userName = readlineSync.question('May I have your name? ');
+  console.log(`Hello, ${userName}!`);
+  console.log(rules);
 
-  const numberOfRounds = 3;
-  for (let i = 0; i < numberOfRounds; i += 1) {
-    const { question, correctAnswer } = getCorrectAnswerAndQuestion();
-    getQuestion(question);
-    const answer = getAnswer();
-    if (answer === correctAnswer) {
-      getResultEvalution.correct();
-    } else {
-      getResultEvalution.wrong(userName, answer, correctAnswer);
+  const roundsCount = 3;
+  for (let i = 0; i < roundsCount; i += 1) {
+    const { question, correctAnswer } = generateRound();
+    console.log(`Question: ${question}`);
+    const userAnswer = readlineSync.question('Your answer: ');
+    if (userAnswer !== correctAnswer) {
+      console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'. \n Let's try again, ${userName}!`);
       return;
     }
+    console.log('Correct!');
   }
-  getResultEvalution.congrats(userName);
+  console.log(`Congratulations, ${userName}!`);
 };
 export default startGame;
