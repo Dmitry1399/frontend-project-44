@@ -34,12 +34,17 @@
    ```
 
 ### Видео-демонстрации:
+#### brain-even
 [![asciicast](https://asciinema.org/a/8MCCx8HSR3gYvnDjzd4IMK6eQ.svg)](https://asciinema.org/a/8MCCx8HSR3gYvnDjzd4IMK6eQ)
 
+#### brain-calc
 [![asciicast](https://asciinema.org/a/uR3FRgVTbWCVakcYp6Nhwfj1e.svg)](https://asciinema.org/a/uR3FRgVTbWCVakcYp6Nhwfj1e)
 
+#### brain-gcd
 [![asciicast](https://asciinema.org/a/4y2B3kRpg5lOmCGWlaXWWR2BQ.svg)](https://asciinema.org/a/4y2B3kRpg5lOmCGWlaXWWR2BQ)
 
+#### brain-progression
 [![asciicast](https://asciinema.org/a/tPerElIbSgc7IHrqwdVLh8yRZ.svg)](https://asciinema.org/a/tPerElIbSgc7IHrqwdVLh8yRZ)
 
+#### brain-prime
 [![asciicast](https://asciinema.org/a/z8dew0u0kvPOFWYanaETDfaIp.svg)](https://asciinema.org/a/z8dew0u0kvPOFWYanaETDfaIp)
