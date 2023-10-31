@@ -34,12 +34,12 @@
    ```
 
 ### Видео-демонстрации:
-:heavy_check_mark:[brain-even game](https://asciinema.org/a/8MCCx8HSR3gYvnDjzd4IMK6eQ)
+[![asciicast](https://asciinema.org/a/8MCCx8HSR3gYvnDjzd4IMK6eQ.svg)](https://asciinema.org/a/8MCCx8HSR3gYvnDjzd4IMK6eQ)
 
-:heavy_check_mark:[brain-calc game](https://asciinema.org/a/uR3FRgVTbWCVakcYp6Nhwfj1e)
+[![asciicast](https://asciinema.org/a/uR3FRgVTbWCVakcYp6Nhwfj1e.svg)](https://asciinema.org/a/uR3FRgVTbWCVakcYp6Nhwfj1e)
 
-:heavy_check_mark:[brain-gcd game](https://asciinema.org/a/4y2B3kRpg5lOmCGWlaXWWR2BQ)
+[![asciicast](https://asciinema.org/a/4y2B3kRpg5lOmCGWlaXWWR2BQ.svg)](https://asciinema.org/a/4y2B3kRpg5lOmCGWlaXWWR2BQ)
 
-:heavy_check_mark:[brain-progression game](https://asciinema.org/a/tPerElIbSgc7IHrqwdVLh8yRZ)
+[![asciicast](https://asciinema.org/a/tPerElIbSgc7IHrqwdVLh8yRZ.svg)](https://asciinema.org/a/tPerElIbSgc7IHrqwdVLh8yRZ)
 
-:heavy_check_mark:[brain-prime game](https://asciinema.org/a/z8dew0u0kvPOFWYanaETDfaIp)
+[![asciicast](https://asciinema.org/a/z8dew0u0kvPOFWYanaETDfaIp.svg)](https://asciinema.org/a/z8dew0u0kvPOFWYanaETDfaIp)
